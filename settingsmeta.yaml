@@ -3,11 +3,11 @@ skillMetadata:
   sections:
     - name: Options << Name of section
       fields:
-        - name: internal_python_variable_name
-          type: text
-          label: Setting Friendly Display Name
+        - name: phonenumber
+          type: number
+          label: Phonenumber of Parents
           value: ""
-          placeholder: demo prompt in the input box
+          placeholder: Phonenumber
     - name: Login << Name of another section
       fields:
         - type: label
