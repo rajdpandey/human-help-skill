@@ -23,3 +23,8 @@ Productivity
 #help
 #medical
 
+## To Do
+* create conversational structure
+* Voice over IP
+* Send notification over communication skills
+
