@@ -1,4 +1,4 @@
-# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/robot.svg" card_color="#40DBB0" width="50" height="50" style="vertical-align:bottom"/> Human Help
+# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/first-aid.svg" card_color="#40DBB0" width="50" height="50" style="vertical-align:bottom"/> Human Help
 This skill should call for medical help or a manual for self-help in an emergency.
 
 ## About
